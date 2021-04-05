@@ -1,0 +1,16 @@
+{
+  "name": "kpmg-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha "
+  },
+  "keywords": [],
+  "author": "Sunny Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
