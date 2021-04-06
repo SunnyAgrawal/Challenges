@@ -9,6 +9,6 @@ https://cloud.google.com/sdk/docs/quickstart
 sh getmetadata.sh
 ```
 
-In this approach, it will save the output in the json file named as `compute-metadata.json`.
+It will save the output in the json file named as `compute-metadata.json` in the same directory.
 
 #2 - Use google cloud compute api which is exposed at http://metadata.google.internal/computeMetadata/v1/ url
