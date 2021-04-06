@@ -6,7 +6,9 @@ Infrastucture:
 5. Cloud Storage : To store the Generic helm template
 
 Tier1 - FrontEnd: Nodejs Application
+
 Tier2 - BackEnd: Java springboot Application
+
 Tier3 - Database: MongoDB Atlas
 
 Tier 1 : Presentation Layer : NodeJs or ReactJS application. 
